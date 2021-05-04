@@ -55,6 +55,7 @@ Relationship Between Tables:
 
 ```
 #### Running Server
+Create a .env file and put PASSWORD for MySQL in it or edit the /config/db.config.js with password.
 **To run the express server locally:**
 ```
 cd /
